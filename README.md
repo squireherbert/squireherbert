@@ -1,4 +1,29 @@
-## Hi there 👋
+<h1>Hi, I'm Herbert! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab]
+
+
+<h2>🗒️ Certifications:</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/f50f69bc-3046-4b5d-a376-5925867938b7/public_url)
+- [CompTIA A+](https://www.credly.com/badges/2ea7dc5e-8401-4f43-becf-deca204e3141/public_url)
+- [Google IT Support Professional](https://www.credly.com/badges/c181d209-b9cd-4082-8312-68e741d9866c/public_url)
+
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="squireherbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/herbert-squire-21b176319
+
 
 <!--
 **squireherbert/squireherbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
