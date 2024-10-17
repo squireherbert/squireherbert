@@ -1,8 +1,7 @@
 <h1>Hi, I'm Herbert! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Active Drirectory Home Lab Setup:</h2>
 
-- [Active Directory Home Lab]
 
 
 <h2>🗒️ Certifications:</h2>
