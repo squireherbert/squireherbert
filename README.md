@@ -1,6 +1,8 @@
 <h1>Hi, I'm Herbert! </h1>
 
-<h2>👨‍💻 Active Drirectory Home Lab Setup:</h2>
+<h2> Projects </h2>
+
+- [👨‍💻Active Drirectory Home Lab Setup:]([https://github.com](https://github.com/squireherbert/active-directory-home-lab/blob/main/README.md))
 
 
 
