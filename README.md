@@ -3,8 +3,7 @@
 <h2>👨‍💻 Projects </h2>
 
 - [Active Drirectory Home Lab Setup](https://github.com/squireherbert/active-directory-home-lab/blob/main/README.md)
-- [Deck of Cards](https://github.com/squireherbert/DeckofCards)
-- [Rectangle](https://github.com/squireherbert/Rectangle)
+- [Disk Repair w/ Diskpart](https://github.com/squireherbert/diskpart-repair/blob/main/README.md)
 
 
 
@@ -15,8 +14,10 @@
 - [Google IT Support Professional](https://www.credly.com/badges/c181d209-b9cd-4082-8312-68e741d9866c/public_url)
 
 
+<h2>Python Course Projects </h2>
 
-
+- [Deck of Cards](https://github.com/squireherbert/DeckofCards)
+- [Rectangle](https://github.com/squireherbert/Rectangle)
 
 
 <h2> 🤳 Connect with me:</h2>
