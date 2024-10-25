@@ -1,22 +1,23 @@
 <h1>Hi, I'm Herbert! </h1>
 
-<h2>🗒️ Certifications:</h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/f50f69bc-3046-4b5d-a376-5925867938b7/public_url)
-- [CompTIA A+](https://www.credly.com/badges/2ea7dc5e-8401-4f43-becf-deca204e3141/public_url)
-- [Google IT Support Professional](https://www.credly.com/badges/c181d209-b9cd-4082-8312-68e741d9866c/public_url)
-
-
-<h2>👨‍💻 Projects </h2>
+<h2>💻 IT Projects </h2>
 
 - [Active Drirectory Home Lab Setup](https://github.com/squireherbert/active-directory-home-lab/blob/main/README.md)
 - [Disk Repair w/ Diskpart](https://github.com/squireherbert/diskpart-repair/blob/main/README.md)
 
 
-<h2>Python Course Projects </h2>
+<h2>🎓 University Python Course Projects </h2>
 
 - [Deck of Cards](https://github.com/squireherbert/DeckofCards)
 - [Rectangle](https://github.com/squireherbert/Rectangle)
+
+
+<h2>🗒️ Certifications:</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/f50f69bc-3046-4b5d-a376-5925867938b7/public_url)
+- [CompTIA A+](https://www.credly.com/badges/2ea7dc5e-8401-4f43-becf-deca204e3141/public_url)
+- [Google IT Support Professional](https://www.credly.com/badges/c181d209-b9cd-4082-8312-68e741d9866c/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
