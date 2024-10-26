@@ -4,13 +4,15 @@
 <h2>💻 IT Projects </h2>
 
 - [Active Drirectory Home Lab Setup](https://github.com/squireherbert/active-directory-home-lab/blob/main/README.md)
+- [Linux Security Hardening](https://github.com/squireherbert/LinuxSecurityHardening)
 - [Disk Repair w/ Diskpart](https://github.com/squireherbert/diskpart-repair/blob/main/README.md)
 
 
-<h2>🎓 University Python Course Projects </h2>
+<h2>🎓 University Python Projects </h2>
 
 - [Deck of Cards](https://github.com/squireherbert/DeckofCards)
 - [Rectangle](https://github.com/squireherbert/Rectangle)
+- [CIS Course Project](https://github.com/squireherbert/CIS261-Course-Project/)
 
 
 <h2>🗒️ Certifications:</h2>
