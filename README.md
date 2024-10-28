@@ -3,7 +3,7 @@
 
 <h2>💻 IT Projects </h2>
 
-- [Active Drirectory Home Lab Setup](https://github.com/squireherbert/active-directory-home-lab/blob/main/README.md)
+- [Active Drirectory Setup](https://github.com/squireherbert/active-directory-home-lab/blob/main/README.md)
 - [Linux Security Hardening](https://github.com/squireherbert/LinuxSecurityHardening)
 - [Disk Repair w/ Diskpart](https://github.com/squireherbert/diskpart-repair/blob/main/README.md)
 
